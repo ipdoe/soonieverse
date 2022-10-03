@@ -99,6 +99,7 @@
     "1111 Sticker": 98,
     "LOCO Sticker": 107,
     "Blue Graffiti": 112,
+    "None": 119,
     "Green Graffiti": 168
   },
   "Details": {
@@ -139,6 +140,7 @@
     "Single Blaster": 81,
     "Golden Single Spear": 84,
     "Spotlight": 98,
+    "None": 101,
     "Single Spear": 118,
     "Double Blasters": 129
   },
